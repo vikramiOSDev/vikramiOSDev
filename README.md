@@ -1,3 +1,5 @@
+[![CI](https://github.com/vikramiOSDev/vikramiOSDev/actions/workflows/testCase.yml/badge.svg)](https://github.com/vikramiOSDev/vikramiOSDev/actions/workflows/testCase.yml)
+
 
 ### Hello, I am Vikram Thakur 👋
 
